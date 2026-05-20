@@ -5,7 +5,7 @@ sections:
   - type: hero_section
     section_id: hero
     title: >-
-      Ajul is a boutique design studio based in Nairobi, Kenya, specializing in luxury, minimal, and contemporary brand and website design.
+      ***Ajul is a boutique design studio based in Nairobi, Kenya, specializing in luxury, minimal, and contemporary brand and website design.***
   - type: portfolio_section
     section_id: latest-projects
     layout_style: mosaic
