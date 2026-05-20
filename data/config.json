@@ -1,12 +1,12 @@
 {
-    "title": "Stackbit Agency Theme",
+    "title": "Ajul Studio.",
     "color_scheme": "light",
-    "accent_color": "green",
+    "accent_color": "yellow",
     "base_font": "fraunces",
     "header": {
-        "title": "Agency",
-        "logo": "images/logo.svg",
-        "logo_alt": "Agency logo",
+        "title": "Ajul Studio",
+        "logo": "",
+        "logo_alt": "Ajul Studio logo",
         "has_nav": true,
         "nav_links": [
             {
@@ -30,42 +30,28 @@
                 "style": "link"
             },
             {
-                "label": "Contact",
+                "label": "Start a Project",
                 "url": "/contact/",
                 "style": "button"
             }
         ]
     },
     "footer": {
-        "content": "&copy; Stackbit. All rights reserved. This Jamstack site was created with <a href=\"https://www.stackbit.com/?utm_source=deployed-footer\" target=\"_blank\" rel=\"noopener\">Stackbit</a>. Create yours <a href=\"https://app.stackbit.com/create?theme=agency&utm_source=deployed-footer\" target=\"_blank\" rel=\"noopener\">now</a>",
+        "content": "&copy; Ajul Studio. All rights reserved.",
         "has_social": true,
         "social_links": [
             {
-                "label": "Twitter",
-                "url": "https://twitter.com/",
-                "style": "icon",
-                "icon": "twitter",
-                "new_window": true
-            },
-            {
                 "label": "Instagram",
-                "url": "https://www.instagram.com/",
+                "url": "https://www.instagram.com/ajulstudio",
                 "style": "icon",
                 "icon": "instagram",
                 "new_window": true
             },
             {
                 "label": "Dribbble",
-                "url": "https://dribbble.com/",
+                "url": "https://dribbble.com/ajulstudio",
                 "style": "icon",
                 "icon": "dribbble",
-                "new_window": true
-            },
-            {
-                "label": "LinkedIn",
-                "url": "https://www.linkedin.com/",
-                "style": "icon",
-                "icon": "linkedin",
                 "new_window": true
             }
         ]
