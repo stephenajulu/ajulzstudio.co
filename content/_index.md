@@ -12,15 +12,6 @@ sections:
     projects_number: 12
     view_all_label: View All
     view_all_url: portfolio
-  - type: grid_section
-    section_id: services
-    title: Services
-    col_number: two
-    grid_items:
-      - title: Brand Design
-        image: images/service-2.svg
-      - title: Web Design
-        image: images/service-3.svg
   - type: cta_section
     section_id: cta
     title: Let’s Get To Working, Together!
